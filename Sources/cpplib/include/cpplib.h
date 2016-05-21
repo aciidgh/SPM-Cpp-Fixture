@@ -1,0 +1,7 @@
+
+namespace cpplib {
+
+int five();
+
+}
+
